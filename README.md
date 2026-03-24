@@ -15,7 +15,7 @@ I wanted to build something that reacts instantly to user input, feels smooth an
 That idea became CurrencyLab.
 
 ## Live Demo
-
+[Click Here](currency-lab.vercel.app)
 ## Preview
 <img src="./public/currencyLab.png">
 
