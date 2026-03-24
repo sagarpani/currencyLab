@@ -35,9 +35,9 @@ function App() {
   }
 
   return (
-    <div className="project-body w-full h-screen flex justify-center items-center bg-linear-to-br from-slate-900 via-blue-900 to-slate-800"
+    <div className="project-body w-full h-screen flex justify-center px-5 items-center bg-linear-to-br from-slate-900 via-blue-900 to-slate-800"
     >
-      <div className='relative w-full max-w-md mx-5 bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-4 sm:p-6 shadow-xl flex flex-col gap-4 '>
+      <div className=' container relative w-full max-w-md bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-4 sm:p-6 shadow-xl flex flex-col gap-4 '>
 
         <h1 className='text-white text-xl sm:text-2xl font-semibold text-center'>
           CurrencyLab
